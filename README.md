@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanMenjivar97
 - 👀 I’m interested in programming, music, videogames, etc.
-- 🌱 I’m currently learning Java and still learning more about C#
+- 🌱 I’m currently learning PHP and still learning more about C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. You can contact me on jmmenjivaro@gmail.com
 
